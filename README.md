@@ -5,12 +5,18 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinodPandhare" alt="VinodPandhare" /></a> </p> -->
 
-- 🤙How to reach me **vpandhare281@gmail.com**
-- 👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates [Tap here to see my LinkedIn Handle ](https://www.linkedin.com/in/vinod-pandhare-80a62a246/)
-- 🧾See My Updated CV 👉 [Click Here](https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view)
+- <span style="font-size: larger;">🤙How to reach me **vpandhare281@gmail.com**</span>
+- <span style="font-size: larger;">👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates [Tap here to see my LinkedIn Handle ](https://www.linkedin.com/in/vinod-pandhare-80a62a246/)</span>
+- <span style="font-size: larger;">🧾See My Updated CV 👉 [Click Here](https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view)</span>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinod-pandhare-80a62a246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinod-Pandhare" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinod-pandhare-80a62a246/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinod-Pandhare" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sorry Guys Getting my Insta is not too much easy 😉😅" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
