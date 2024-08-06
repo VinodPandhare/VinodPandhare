@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **vpandhare281@gmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/Pramod858](https://github.com/Pramod858)
-- 🧾See My updated CV [https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view](Click Here For My Updated CV)
+- 🧾See My updated CV [Click Here For My Updated CV](https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view)
