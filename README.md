@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinodPandhare" alt="VinodPandhare" /></a> </p> -->
 
-- <span style="font-size: larger;">🤙How to reach me **vpandhare281@gmail.com**</span>
-- <span style="font-size: larger;">👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates [Tap here to see my LinkedIn Handle ](https://www.linkedin.com/in/vinod-pandhare-80a62a246/)</span>
-- <span style="font-size: larger;">🧾See My Updated CV 👉 [Click Here](https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view)</span>
+<span style="font-size: xx-large;">🤙How to reach me **vpandhare281@gmail.com**</span><br>
+<span style="font-size: xx-large;">👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates <a href="https://www.linkedin.com/in/vinod-pandhare-80a62a246/">Tap here to see my LinkedIn Handle</a></span><br>
+<span style="font-size: xx-large;">🧾See My Updated CV 👉 <a href="https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view">Click Here</a></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +48,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
   </a> 
+</p>
+
+<h3 align="left">DevOps Tools:</h3>
+<p align="center">
+  <img src="https://i.imgur.com/GP5uHsS.jpg" alt="DevOps Tools" width="600" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinodPandhare&show_icons=true&locale=en&layout=compact" alt="VinodPandhare" /></p>
