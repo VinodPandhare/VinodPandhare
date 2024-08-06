@@ -52,7 +52,7 @@
 
 <h3 align="left">DevOps Tools:</h3>
 <p align="center">
-  <img src="https://i.imgur.com/GP5uHsS.jpg" alt="DevOps Tools" width="600" />
+  <img src="https://www.shutterstock.com/image-photo/devops-software-development-operations-engineer-project-2284345609" alt="DevOps Tools" width="600" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinodPandhare&show_icons=true&locale=en&layout=compact" alt="VinodPandhare" /></p>
