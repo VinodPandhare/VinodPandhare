@@ -50,11 +50,6 @@
   </a> 
 </p>
 
-<h3 align="left">DevOps Tools:</h3>
-<p align="center">
-  <img src="https://www.shutterstock.com/image-photo/devops-software-development-operations-engineer-project-2284345609" alt="DevOps Tools" width="600" />
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VinodPandhare&show_icons=true&locale=en&layout=compact" alt="VinodPandhare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VinodPandhare&show_icons=true&locale=en" alt="VinodPandhare" /></p>
