@@ -6,12 +6,12 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VinodPandhare" alt="VinodPandhare" /></a> </p> -->
 
 <span style="font-size: xx-large;">🤙How to reach me **vpandhare281@gmail.com**</span><br>
-<span style="font-size: xx-large;">👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates <a href="https://www.linkedin.com/in/vinod-pandhare-80a62a246/">Tap here to see my LinkedIn Handle</a></span><br>
+<span style="font-size: xx-large;">👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates <a href="https://www.linkedin.com/in/vinodpandhare">Tap here to see my LinkedIn Handle</a></span><br>
 <span style="font-size: xx-large;">🧾See My Updated CV 👉 <a href="https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view">Click Here</a></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinod-pandhare-80a62a246/" target="blank">
+<a href="https://www.linkedin.com/in/vinodpandhare" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinod-Pandhare" height="30" width="40" />
 </a>
 <a href="https://www.instagram.com/" target="blank">
