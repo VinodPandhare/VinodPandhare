@@ -1,5 +1,5 @@
 <h1 align="center"> Hello There, I'm Vinod Pandhare</h1>
-<h3 align="center">A assionate DevOps Engineer from Pune, Maharasthra, India</h3>
+<h3 align="center">A Passionate DevOps Engineer from Pune, Maharasthra, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinodPandhare&label=Profile%20views&color=0e75b6&style=flat" alt="VinodPandhare" /> </p>
 
