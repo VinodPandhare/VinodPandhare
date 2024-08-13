@@ -1,5 +1,5 @@
 <h1 align="center"> Hello There, I'm Vinod Pandhare</h1>
-<h3 align="center">A passionate DevOps Engineer from Pune, Maharasthra, India</h3>
+<h3 align="center">A assionate DevOps Engineer from Pune, Maharasthra, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinodPandhare&label=Profile%20views&color=0e75b6&style=flat" alt="VinodPandhare" /> </p>
 
@@ -7,7 +7,7 @@
 
 <span style="font-size: xx-large;">🤙How to reach me **vpandhare281@gmail.com**</span><br>
 <span style="font-size: xx-large;">👨‍🎓Kindly Visit my **LinkedIn** handle for the latest Professional Updates <a href="https://www.linkedin.com/in/vinodpandhare">Tap here to see my LinkedIn Handle</a></span><br>
-<span style="font-size: xx-large;">🧾See My Updated CV 👉 <a href="https://drive.google.com/file/d/17MPdXNPXVL1ToVz-2TbOi6IQ8e_zjOXN/view">Click Here</a></span>
+<span style="font-size: xx-large;">👉**See My Updated CV**🧾 <a href="https://drive.google.com/file/d/1ciRqy5Jhx_V3tSU3MBDjaeIo6dRAaQhC/view">Click Here</a></span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
